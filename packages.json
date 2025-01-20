@@ -4,6 +4,10 @@
         "url": "https://github.com/jameel-institute/daedalus"
     },
     {
+        "package": "daedalus.compare",
+        "url": "https://github.com/jameel-institute/daedalus.compare"
+    },
+    {
         "package": "jameelinst.rpkg.theme",
         "url": "https://github.com/jameel-institute/jameelinst.rpkg.theme"
     }
