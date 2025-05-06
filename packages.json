@@ -10,5 +10,9 @@
     {
         "package": "jameelinst.rpkg.theme",
         "url": "https://github.com/jameel-institute/jameelinst.rpkg.theme"
+    },
+    {
+        "package": "daedalus.data",
+        "url": "https://github.com/jameel-institute/daedalus.data"
     }
 ]
